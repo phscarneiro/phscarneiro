@@ -15,8 +15,7 @@ Blz? Eu me chamo Pedro Carneiro;
             Ultimamente venho estudando a metodologia SCRUM e a linguagem de programação Python;
             Nesta última semana aprendi um pouco sobre testes automatizados(QA) utilizando a plataforma Cypress na semana      
             agilizei 04;
-            
-   Atualmente procuro projetos e oportunidades de emprego na área de desenvolvimento de hardware e testes automatizados;
+    Atualmente procuro projetos e oportunidades de emprego na área de desenvolvimento de hardware e testes automatizados;
 
 Até mais, phcarneiro@gmail.com        
 
