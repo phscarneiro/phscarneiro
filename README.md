@@ -10,10 +10,8 @@ Blz? Eu me chamo Pedro Carneiro;
         embora hoje em dia eu venha migrando os códigos e testes feitos para uma plataforma mais open source;
         Durante a pandemia foquei em terminar pendencias;     
             Terminei a graduaçao entregando ao sistema validado em laboratorio e tirei cnh AB;
-            
-  Com o fim da graduação ainda no meio da pandemia defini uma rotina onde estudo idiomas pela manhã (obrigado Duolingo e 
+    Com o fim da graduação ainda no meio da pandemia defini uma rotina onde estudo idiomas pela manhã (obrigado Duolingo e 
             Memrise) e a tarde a noite estudo assuntos mais focados a desenvolvimento de projetos e engenharia;
-            
             Ultimamente venho estudando a metodologia SCRUM e a linguagem de programação Python;
             Nesta última semana aprendi um pouco sobre testes automatizados(QA) utilizando a plataforma Cypress na semana      
             agilizei 04;
