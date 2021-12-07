@@ -6,8 +6,7 @@ Blz? Eu me chamo Pedro Carneiro;
         Aprendendo bastante os conceitos básicos de C e C# e os implementando no desenvolvimento de um protótipo de um 
         sistema embutido para aplicaçao do carro offroad; 
         Durante as eletivas do final do curso também me mantive estudando controle linear e ladder;
-        Os softwares que mais tive contato na graduação foram o ISIS/ARES(Proteus), Matlab, Visual Studio e Elipse,
-        embora hoje em dia eu venha migrando os códigos e testes feitos para uma plataforma mais open source;
+        Os softwares que mais tive contato na graduação foram o ISIS/ARES(Proteus), Matlab, Visual Studio e Elipse;
         Durante a pandemia foquei em terminar pendencias;     
             Terminei a graduaçao entregando ao sistema validado em laboratorio e tirei cnh AB;
     Com o fim da graduação ainda no meio da pandemia defini uma rotina onde estudo idiomas pela manhã (obrigado Duolingo e 
